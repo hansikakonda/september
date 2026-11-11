@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/hansikakonda0411-sys/september/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hansikakonda0411-sys/september/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hansikakonda0411-sys/september/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/hansikakonda0411-sys/september/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
